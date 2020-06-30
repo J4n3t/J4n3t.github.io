@@ -84,9 +84,9 @@ h2 {
 
  
 h3 {
-  background-image: header-star-1.gif;
-  background-repeat: none;
-  padding-left: 20px;
+   background-image: url("header-star-1.gif");
+   background-repeat: none;
+   padding-left: 20px;
 }
   
 blockquote {
